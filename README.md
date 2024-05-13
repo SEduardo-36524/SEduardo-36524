@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 Entusiasta e apaixonado por tecnologia e rumando do hardware para o software.
 
-![Snake animation](https://github.com/SEduardo-36524/SEduardo-36524/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
