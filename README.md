@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ferreira-silva-40751218a/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/eduardoferreirasilva)
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEduardo-36524&show_icons=true&theme=dracula)
+<a href="https://github.com/SEduardo-36524/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SEduardo-36524&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/SEduardo-36524/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEduardo-36524&layout=donut&theme=dracula" />
+</a><br/>
 
 ## Tecnologias que eu uso
 <div style="display: inline_block"><br/>
