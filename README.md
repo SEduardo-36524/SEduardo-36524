@@ -49,3 +49,4 @@ Entusiasta e apaixonado por tecnologia e rumando do hardware para o software.
 
 
 
+
