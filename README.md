@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/eduardoferreirasilva)
 
 <a href="https://github.com/SEduardo-36524/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SEduardo-36524&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SEduardo-36524&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
 <a href="https://github.com/SEduardo-36524/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEduardo-36524&layout=donut&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEduardo-36524&layout=donut&langs_count=16&theme=dracula" />
 </a><br/>
 
 ## Tecnologias que eu uso
@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 </div><br/>
 
 Entusiasta e apaixonado por tecnologia e rumando do hardware para o software.
+
+![Snake animation](https://github.com/SEduardo-36524/SEduardo-36524/blob/output/github-contribution-grid-snake.svg)
 
 
 
