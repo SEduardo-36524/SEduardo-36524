@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduardo Ferreira 👋
+## Olá! Eu sou o Eduardo👋
 
 <!--
 **SEduardo-36524/SEduardo-36524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
