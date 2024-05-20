@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEduardo-36524&layout=donut&langs_count=16&theme=dracula" />
 </a><br/>
 
-## Tecnologias que eu uso
+## Tecnologias que eu uso / estou estudando
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=whit" />
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 </div><br/>
 
-Entusiasta e apaixonado por tecnologia e rumando do hardware para o software.
+Entusiasta e apaixonado por tecnologia.
 
 
 
